@@ -1,4 +1,5 @@
-UP and Down 게임("https://github.com/eunjin7/number-guessing-game/blob/main/numer-guess-game.jpeg")
+<h1>UP and Down 게임</h1>
+<img alt="numer-guess-game.jpeg" src="https://github.com/eunjin7/number-guessing-game/blob/main/numer-guess-game.jpeg?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 숫자게임 입니다.
 랜덤으로 지정되는 숫자를 맞추는 게임입니다.
