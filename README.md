@@ -1,4 +1,4 @@
-UP and Down 게임("C:\Users\user\Downloads\스크린샷_7-6-2024_03319_127.0.0.1.jpeg")
+UP and Down 게임("https://github.com/eunjin7/number-guessing-game/blob/main/numer-guess-game.jpeg")
 
 숫자게임 입니다.
 랜덤으로 지정되는 숫자를 맞추는 게임입니다.
